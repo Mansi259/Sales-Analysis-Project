@@ -1,7 +1,7 @@
 # Sales-Analysis-Project
-# Sales-Analysis
+
 ### Live Dashboard
- [Click here to view the interactive dashboard](https://github.com/jaysolankii/Sales-Analysis/blob/main/Sales%20Report_Finished.pbix)
+ [Click here to view the interactive dashboard](https://github.com/Mansi259/Sales-Analysis-Project/blob/main/Sales%20Report_Finished.pbix)
 
 ### Project Overview
 Designed and developed an **interactive Power BI dashboard** to analyze and visualize business data.  
@@ -26,11 +26,11 @@ The dashboard highlights **key performance indicators (KPIs), trends, and insigh
 ##  Dashboard Preview
 
 ### Sales Dashboard
-![Sales Overview](https://github.com/jaysolankii/Sales-Analysis/blob/main/Sales%20Overview%20jpg)
+![Sales Overview](https://github.com/Mansi259/Sales-Analysis-Project/blob/main/Sales%20overview)
 
 ###  Customer dashboard
-![Customer Detail](https://github.com/jaysolankii/Sales-Analysis/blob/main/Customer%20Details%20jpg)
+![Customer Detail](https://github.com/Mansi259/Sales-Analysis-Project/blob/main/customer%20details)
 
 
 ###  Product Dashboard
-![Product Details](https://github.com/jaysolankii/Sales-Analysis/blob/main/Product%20Details%20jpg)  
+![Product Details](https://github.com/Mansi259/Sales-Analysis-Project/blob/main/product%20details.png)  
